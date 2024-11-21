@@ -10,3 +10,7 @@
 
 # README 내용 수정
 🤣🤣🤣🤣😊😊😊😊😘😘
+
+# 수정1
+```print("hello world")
+```
